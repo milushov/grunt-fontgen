@@ -47,6 +47,6 @@
     "css"
   ],
   "dependencies": {
-    "fontfacegen": "https://github.com/original001/fontfacegen.git"
+    "fontfacegen": "original001/fontfacegen"
   }
 }
